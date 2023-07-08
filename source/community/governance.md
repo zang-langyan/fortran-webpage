@@ -65,7 +65,7 @@ Contributors
 Everybody is welcome to contribute to Fortran-lang and its projects. Providing and discussing ideas as well as developing concepts and designs are integral contributions to any project. All contributors can steer and add to the long-term vision of the Fortran-lang projects.
 
 :::{div} sd-text-left sd-fs-2 sd-font-weight-bold sd-text-primary
-MIT License
+License
 :::
 
 To the extent possible under law, the authors have waived all copyright and related or neighboring rights to the Fortran-lang community governance document, as per the MIT License dedication.
